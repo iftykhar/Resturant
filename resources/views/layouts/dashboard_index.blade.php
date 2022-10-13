@@ -77,7 +77,7 @@
             </div>
 			<div class="nalika-profile">
 				<div class="profile-dtl">
-					<a href="#"><img src="img/notification/10.jpg" alt="" /></a>
+					<a href="#"><img src="img/notification/003.jpg" alt="" /></a>
 					<h2>Lakian <span class="min-dtn">Das</span></h2>
 				</div>
 				<div class="profile-social-dtl">
@@ -1131,7 +1131,7 @@
                 </div>
             </div>
         </div>
-        <div class="product-new-list-area">
+        {{-- <div class="product-new-list-area">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
@@ -1260,8 +1260,8 @@
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="product-sales-area mg-tb-30">
+        </div> --}}
+        {{-- <div class="product-sales-area mg-tb-30">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-9 col-md-9 col-sm-9 col-xs-12">
@@ -1313,8 +1313,8 @@
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="author-area-pro">
+        </div> --}}
+        {{-- <div class="author-area-pro">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
@@ -1393,8 +1393,8 @@
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="calender-area mg-tb-30">
+        </div> --}}
+        {{-- <div class="calender-area mg-tb-30">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-12">
@@ -1404,7 +1404,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
         <div class="footer-copyright-area">
             <div class="container-fluid">
                 <div class="row">
